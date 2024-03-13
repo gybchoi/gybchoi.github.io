@@ -1,11 +1,9 @@
 ---
 layout: post
-title: English Target 개인정보처리방침
+title: 2024.3.13 수정 English Target
 ---
 
-<p style="font-size: 200%; color: "red";">2024.3.13 수정</p><br />
-English Target 안드로이드 앱 다운로드
-https://drive.google.com/file/d/164Jhstg7ur1V8AI7Atf_SKCvvR5Hu1hZ/view?usp=drive_link
+<a href="https://drive.google.com/file/d/164Jhstg7ur1V8AI7Atf_SKCvvR5Hu1hZ/view?usp=sharing">English Target 안드로이드 앱 다운로드</a>
 
 <br /><br />
 
