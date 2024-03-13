@@ -10,4 +10,6 @@ permalink: /about/
 
 ### Contact me
 
+01057574203
+
 [gybchoi@gmail.com](mailto:gybchoi@gmail.com)
