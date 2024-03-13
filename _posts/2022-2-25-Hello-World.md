@@ -3,7 +3,7 @@ layout: post
 title: English Target 개인정보처리방침
 ---
 
-2024.3.13 수정
+<div color="red" size="5">2024.3.13 수정</div><br />
 English Target 안드로이드 앱 다운로드
 https://drive.google.com/file/d/164Jhstg7ur1V8AI7Atf_SKCvvR5Hu1hZ/view?usp=drive_link
 
