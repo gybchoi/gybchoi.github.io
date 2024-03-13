@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+2024.3.13 최교엽
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gybchoi@gmail.com](mailto:gybchoi@gmail.com)
