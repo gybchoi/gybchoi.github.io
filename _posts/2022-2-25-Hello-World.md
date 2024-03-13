@@ -3,6 +3,10 @@ layout: post
 title: English Target 개인정보처리방침
 ---
 
+2024.3.13 수정
+English Target 안드로이드 앱 다운로드
+https://drive.google.com/file/d/164Jhstg7ur1V8AI7Atf_SKCvvR5Hu1hZ/view?usp=drive_link
+
 < 최교엽 >('gybchoi.github.io'이하 '최교엽')은(는) 「개인정보 보호법」 제30조에 따라 정보주체의 개인정보를 보호하고 이와 관련한 고충을 신속하고 원활하게 처리할 수 있도록 하기 위하여 다음과 같이 개인정보 처리방침을 수립·공개합니다.
 
 ○ 이 개인정보처리방침은 2022년 2월 25부터 적용됩니다.
